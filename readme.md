@@ -11,6 +11,12 @@ conda create -n heart python=3.12 -y
 conda activate heart
 pip install -e .
 ```
+a conda environment will be made with the libraries in requirements.txt
+3. Running in VScode (if you prefer)
+```
+code .
+```
+The first import will take about 30secs, this code is tested in VScode.
 
 ## Dataset Link
 [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
