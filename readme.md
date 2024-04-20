@@ -12,6 +12,7 @@ conda activate heart
 pip install -e .
 ```
 a conda environment will be made with the libraries in requirements.txt
+
 3. Running in VScode (if you prefer)
 ```
 code .
