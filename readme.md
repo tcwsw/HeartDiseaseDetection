@@ -6,6 +6,9 @@
 ## Presentation Slides Link
 [Google Slides Presentation](https://docs.google.com/presentation/d/1Ku_PUJqqGOFjxNU-jKybwTMmdZDY2e-y1vyrpaYHzBE/edit?usp=sharing)
 
+### Motivation
+Heart disease is a prevalent issue and severely impacted our lives. This can also be seen from statistics provided by Singapore Heart Foundation that 23 people die from heart disease everyday. 
+
 ### Objective
 Our team aims to address the heart disease problem in Singapore by predicting the likelihood of a person developing heart disease and providing preventive measures.
 
