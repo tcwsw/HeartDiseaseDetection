@@ -21,9 +21,9 @@ Our team aims to address the heart disease problem in Singapore by predicting th
    - Decision Tree
    - Random Forest
    - Perceptron
-7. Analysis and Evaluation (Outcome)
-8. Data-Driven Insights and Recommendations
-9. Inference (User is able to enter their own health data and get a predicted result using perceptron model)
+7. Inference (User is able to enter their own health data and get a predicted result using perceptron model)
+8. Analysis and Evaluation (Outcome) - Incorporated inside ML models
+9. Data-Driven Insights and Recommendations - Incorporated inside EDA and ML models
 
 ### References
 - [SingHealth](https://www.singhealth.com.sg/patient-care/conditions-treatments/cardiovascular-disease)
