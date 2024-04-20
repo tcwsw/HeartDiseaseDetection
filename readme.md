@@ -1,4 +1,16 @@
 # SC1015 Data Science Project - Heart Disease
+## Installation and Running
+1. Installation
+```
+git clone https://github.com/tcwsw/HeartDiseaseDetection.git
+cd HeartDiseaseDetection
+```
+2. Install Package
+```
+conda create -n heart python=3.12 -y
+conda activate heart
+pip install -e .
+```
 
 ## Dataset Link
 [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
